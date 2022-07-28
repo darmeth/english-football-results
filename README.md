@@ -1,7 +1,7 @@
 
 # English Football Results
 
-Results of all top 4 tier soccer games in England since 1888.
+Results of all top 4 tier football (soccer) games in England since 1888.
 
 Forked from [jalapic/engsoccerdata](https://github.com/jalapic/engsoccerdata) 
 and compacted down to single-column, full-time results.
